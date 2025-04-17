@@ -1,10 +1,6 @@
-# Husan Nizom
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-
 ### Connect with me:
 
-[LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) | [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/nhusan) | [Portfolio](https://h-n.tech)
 
 ## About Me
 
